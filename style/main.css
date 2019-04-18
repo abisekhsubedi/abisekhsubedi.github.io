@@ -3,7 +3,13 @@
 body {
  margin: 0;
  font-family: 'VT323', monospace;
- text-algn: center;
+ text-align: center;
  font-size: 2rem;
 
+}
+main {
+    margin: 0 auto;
+    padding: 40px 0;
+    width: 50%;
+    background-color: rgb(139, 250, 231);
 }
