@@ -1,0 +1,9 @@
+#.dotfiles
+.idea
+.vscode
+.eslintrc.js
+package-lock.json
+package.json
+
+# directory
+node_modules
