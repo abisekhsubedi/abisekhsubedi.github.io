@@ -4,13 +4,8 @@
 
 </div>
 
-<div align="center">
 
- `v1.0.0 | portfolio website`
 
-</div>
-
-![img](src/assets/footer.png)
 
 
 <p align="center">&copy; abisekh subedi 2021
