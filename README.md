@@ -8,6 +8,5 @@
 
 <img src="Group 5.png">
 
-<p align="center">&copy; [abisekh subedi](https://abisekh.ml) 2021
-</p>
+<p align="center">&copy; <a href="https://abisekh.ml"> abisekh subedi </a> 2021</p>
 
